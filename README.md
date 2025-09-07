@@ -1,2 +1,5 @@
-# College-Practicals
-Python and C++ practicals from Semester 1 &amp; 2.
+# College Practicals  
+Contains Python and C++ practicals from Semester 1 and Semester 2.  
+
+📂 Python/  
+📂 Cpp/  
